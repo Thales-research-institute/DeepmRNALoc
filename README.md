@@ -1,16 +1,5 @@
-## 使用步骤
-### 1、下载文件
-### 2、运行create_folder.py
-### 3、特征提取
-#### 3.1、k_mer特征提取
-##### 3.1.1、运行cut_fasta.py
-##### 3.1.2、运行k_mer.py
-##### 3.1.3、运行Data2h5_k_mer.py
-#### 3.2、CGR特征提取
-##### 3.2.1、运行use_CGRS_fasta2img.py
-##### 3.2.2、运行Data2h5_CGR.py
-### 4、模型训练与测试
-#### 4.1、5折交叉验证
-#### 4.2、测试集验证
-
-
+# DeepmRNALoc: A novel predictor of eukaryotic mRNA subcellular localization based on deep learning
+![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
+![PyTorch 1.2](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?style=plastic)
+![cuDNN 7.3.1](https://img.shields.io/badge/cudnn-7.3.1-green.svg?style=plastic)
+![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
