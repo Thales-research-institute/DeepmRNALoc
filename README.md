@@ -182,9 +182,9 @@ If you find this repository useful in your research, please consider citing the 
 ```
 
 ## Contact
-If you have any questions, feel free to contact Haoyi Zhou through Email (zhouhaoyi1991@gmail.com) or Github issues. Pull requests are highly welcomed!
+If you have any questions, feel free to contact Thales research institute through Email (Thales_research@163.com) or Github issues. Pull requests are highly welcomed!
 
-## Acknowlegements
-Thanks for the computing infrastructure provided by Beijing Advanced Innovation Center for Big Data and Brain Computing ([BDBC](http://bdbc.buaa.edu.cn/)).
+## Acknowledgments
+Thanks for the computing infrastructure provided by Thales research institute.
 At the same time, thank you all for your attention to this work!
 
