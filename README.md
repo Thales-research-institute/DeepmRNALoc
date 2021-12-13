@@ -142,17 +142,11 @@ We have updated the experiment results of all methods due to the change in data 
 
 Besides, the experiment parameters of each data set are formated in the `.sh` files in the directory `./scripts/`. You can refer to these parameters for experiments, and you can also adjust the parameters to obtain better mse and mae results or draw better prediction figures.
 
-<p align="center">
+<!-- <p align="center">
 <img src="./img/result_univariate.png" height = "500" alt="" align=center />
 <br><br>
 <b>Figure 4.</b> Univariate forecasting results.
-</p>
-
-<p align="center">
-<img src="./img/result_multivariate.png" height = "500" alt="" align=center />
-<br><br>
-<b>Figure 5.</b> Multivariate forecasting results.
-</p>
+</p> -->
 
 
 ## FAQ
