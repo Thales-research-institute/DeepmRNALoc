@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Data
 The fasta data and  can be download here.
-- [BaiduPan](https://pan.baidu.com/s/1dwcALR18_kPOHrg9vSVN8A), password: gv9y 
+- [BaiduPan](https://pan.baidu.com/s/1_sJ97N2te9CJxlbYz8DzfA), password: gv9y 
 
 
 ## Reproducibility
