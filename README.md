@@ -129,7 +129,7 @@ The detailed descriptions about the arguments are as following:
 
 ## <span id="citelink">Citation</span>
 If you find this repository useful in your research, please consider citing the following paper:<br/>
-Paper is waiting for published!
+Paper is waiting for being published!
 
 ## Contact
 If you have any questions, feel free to contact Thales research institute through Email (Thales_research@163.com) or Github issues. Pull requests are highly welcomed!
