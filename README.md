@@ -127,43 +127,10 @@ The detailed descriptions about the arguments are as following:
 
 ## <span id="resultslink">Results</span>
 
-We have updated the experiment results of all methods due to the change in data scaling. We are lucky that Informer gets performance improvement. Thank you @lk1983823 for reminding the data scaling in [issue 41](https://github.com/zhouhaoyi/Informer2020/issues/41).
-
-Besides, the experiment parameters of each data set are formated in the `.sh` files in the directory `./scripts/`. You can refer to these parameters for experiments, and you can also adjust the parameters to obtain better mse and mae results or draw better prediction figures.
-
-<!-- <p align="center">
-<img src="./img/result_univariate.png" height = "500" alt="" align=center />
-<br><br>
-<b>Figure 4.</b> Univariate forecasting results.
-</p> -->
-
-
-## FAQ
-If you run into a problem like `RuntimeError: The size of tensor a (98) must match the size of tensor b (96) at non-singleton dimension 1`, you can check torch version or modify code about `Conv1d` of `TokenEmbedding` in `models/embed.py` as the way of circular padding mode in Conv1d changed in different torch versions.
-
-
 ## <span id="citelink">Citation</span>
 If you find this repository useful in your research, please consider citing the following paper:
-
-```
-@inproceedings{haoyietal-informer-2021,
-  author    = {Haoyi Zhou and
-               Shanghang Zhang and
-               Jieqi Peng and
-               Shuai Zhang and
-               Jianxin Li and
-               Hui Xiong and
-               Wancai Zhang},
-  title     = {Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting},
-  booktitle = {The Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI} 2021, Virtual Conference},
-  volume    = {35},
-  number    = {12},
-  pages     = {11106--11115},
-  publisher = {{AAAI} Press},
-  year      = {2021},
-}
-```
-
+  Waiting for published!
+  
 ## Contact
 If you have any questions, feel free to contact Thales research institute through Email (Thales_research@163.com) or Github issues. Pull requests are highly welcomed!
 
