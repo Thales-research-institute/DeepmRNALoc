@@ -28,7 +28,6 @@ DeepmRNALoc can be publicly accessed by http://DeepmRNALoc.html.
 You can also run it from the command line
 
 ```bash
-# ETTh1
 python -u main.py --model DeepmRNALoc --fa test.fasta
 ```
 
