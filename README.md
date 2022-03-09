@@ -22,7 +22,7 @@ The fasta data and  can be download here.
 - [BaiduPan](https://pan.baidu.com/s/1_sJ97N2te9CJxlbYz8DzfA), password: gv9y 
 
 ## Usage
-To make our model as user-friendly as possible, a web site called DeepmRNALoc was developed.
+To make our model as user-friendly as possible, a web site called DeepmRNALoc was developed.<br/>
 DeepmRNALoc can be publicly accessed by http://DeepmRNALoc.html. 
 
 You can also run it from the command line
@@ -38,7 +38,7 @@ The five-fold cross-validation accuracy of DeepmRNALoc in the cytoplasm, endopla
 
 ## <span id="citelink">Citation</span>
 If you find this repository useful in your research, please consider citing the Github:<br/>
-https://github.com/Thales-research-institute/DeepmRNALoc
+https://github.com/Thales-research-institute/DeepmRNALoc<br/>
 Paper is waiting for being published!
 
 ## Contact
