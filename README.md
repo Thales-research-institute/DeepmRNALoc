@@ -37,7 +37,8 @@ More parameter information please refer to `main.py`.
 The five-fold cross-validation accuracy of DeepmRNALoc in the cytoplasm, endoplasmic reticulum, extracellular region, mitochondria and nucleus were 0.895, 0.594, 0.308, 0.944 and 0.865, respectively.
 
 ## <span id="citelink">Citation</span>
-If you find this repository useful in your research, please consider citing the following paper:<br/>
+If you find this repository useful in your research, please consider citing the Github:<br/>
+https://github.com/Thales-research-institute/DeepmRNALoc
 Paper is waiting for being published!
 
 ## Contact
