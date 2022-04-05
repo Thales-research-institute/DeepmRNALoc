@@ -38,10 +38,15 @@ feature extract:
 ```
 Tips: It could be cost long time.
 
-train:
+train and test:
 ```
-    python mRNALoc/main.py --model [modelname] --train True
+    python mRNALoc/main.py --model [modelname] --train
 ```
+test:
+```
+    python mRNALoc/main.py --model [modelname]
+```
+Tips: Please check the root path before runing the main.py
 inference:
 ```
     python inference.py
