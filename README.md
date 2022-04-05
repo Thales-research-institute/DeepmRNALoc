@@ -33,7 +33,7 @@ You can also run it from the command line
 
 train:
 ```
-    python main.py --model DeepmRNALoc --fa test.fasta
+    python mRNALoc/main.py --model [modelname] --train True
 ```
 inference:
 ```
