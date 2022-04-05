@@ -6,11 +6,15 @@
 ## Requirements
 
 - Python 3.6
-- matplotlib == 3.1.1
-- numpy == 1.19.4
-- pandas == 0.25.1
-- scikit_learn == 0.21.3
-- torch == 1.8.0
+- opencv-python == 4.5.1.48
+- tensorflow-gpu == 1.14.0
+- scikit-learn == 0.24.0
+- pandas ==  1.1.5
+- Keras == 2.3.1
+- pandas == 1.1.5
+- numpy == 1.19.5
+- matplotlib == 3.3.4
+- h5py == 2.10.0
 
 Dependencies can be installed using the following command:
 ```bash
