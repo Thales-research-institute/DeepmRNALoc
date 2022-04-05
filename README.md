@@ -31,6 +31,13 @@ DeepmRNALoc can be publicly accessed by http://DeepmRNALoc.html.
 
 You can also run it from the command line
 
+feature extract:
+```
+    cd ./mRNALoc
+    python extract_feature.py
+```
+Tips: It could be cost long time.
+
 train:
 ```
     python mRNALoc/main.py --model [modelname] --train True
