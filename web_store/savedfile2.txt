@@ -1,0 +1,10 @@
+name>@4@Nucleus,NM_003545 : Nucleus
+name>@4@Nucleus,NM_032294 : Cytoplasm
+name>@4@Nucleus,NM_016128 : Cytoplasm
+name>@4@Nucleus,NM_001037126 : Nucleus
+name>@4@Nucleus,NM_001358 : Nucleus
+name>@4@Nucleus,NM_020849 : Nucleus
+name>@4@Exosome,NM_001007271 : Extracellular_region
+name>@4@Nucleus,NM_001024646 : Nucleus
+name>@4@Nucleus,NM_001034194 : Nucleus
+name>@4@Nucleus,NM_002156 : Nucleus
