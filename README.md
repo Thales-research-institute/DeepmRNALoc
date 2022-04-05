@@ -31,8 +31,11 @@ DeepmRNALoc can be publicly accessed by http://DeepmRNALoc.html.
 
 You can also run it from the command line
 
-```bash
-python -u main.py --model DeepmRNALoc --fa test.fasta
+```
+train:
+    python main.py --model DeepmRNALoc --fa test.fasta
+inference:
+    python inference.py
 ```
 
 More parameter information please refer to `main.py`.
