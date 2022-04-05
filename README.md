@@ -27,7 +27,7 @@ The fasta data and  can be download here.
 
 ## Usage
 To make our model as user-friendly as possible, a web site called DeepmRNALoc was developed.<br/>
-DeepmRNALoc can be publicly accessed by http://DeepmRNALoc.html. 
+DeepmRNALoc can be publicly accessed by http://97.74.87.26:8080/mRNA/. 
 
 You can also run it from the command line
 
@@ -42,7 +42,7 @@ train and test:
 ```
     python mRNALoc/main.py --model [modelname] --train
 ```
-test:
+only test:
 ```
     python mRNALoc/main.py --model [modelname]
 ```
