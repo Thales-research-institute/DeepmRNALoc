@@ -33,7 +33,7 @@ You can also run it from the command line
 
 feature extract:
 ```
-    cd ./mRNALoc
+    cd ./DeepmRNALoc
     python extract_feature.py
 ```
 Tips: It could be cost long time.
