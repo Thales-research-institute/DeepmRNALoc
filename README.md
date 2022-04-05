@@ -31,12 +31,12 @@ DeepmRNALoc can be publicly accessed by http://DeepmRNALoc.html.
 
 You can also run it from the command line
 
-```
 train:
+```
     python main.py --model DeepmRNALoc --fa test.fasta
 ```
-```
 inference:
+```
     python inference.py
 ```
 
