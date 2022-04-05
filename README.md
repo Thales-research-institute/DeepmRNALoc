@@ -46,7 +46,8 @@ test:
 ```
     python mRNALoc/main.py --model [modelname]
 ```
-Tips: Please check the root path before runing the main.py
+Tips: Please check the root path before run the main.py .
+
 inference:
 ```
     python inference.py
