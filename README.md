@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 ## Data
-The fasta data and  can be download here.
+The fasta data can be download here.
 - [BaiduPan](https://pan.baidu.com/s/1_sJ97N2te9CJxlbYz8DzfA), password: gv9y 
 
 ## Usage
@@ -68,6 +68,6 @@ Paper is waiting for being published!
 If you have any questions, feel free to contact Thales research institute through Email (Thales_research@163.com) or Github issues. Pull requests are highly welcomed!
 
 ## Acknowledgments
-Thanks for the computing infrastructure provided by Thales research institute and Shanghai Ocean University.<br/>
+Thanks to Thales Institute and Shanghai Ocean University for providing computing infrastructure.<br/>
 At the same time, thank you all for your attention to this work!
 
