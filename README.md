@@ -53,7 +53,7 @@ inference:
     python inference.py
 ```
 
-More parameter information please refer to `main.py`.
+For more parameter information, please refer to `main.py`.
 
 ## <span id="resultslink">Results</span>
 The five-fold cross-validation accuracy of DeepmRNALoc in the cytoplasm, endoplasmic reticulum, extracellular region, mitochondria and nucleus were 0.895, 0.594, 0.308, 0.944 and 0.865, respectively.
