@@ -36,7 +36,7 @@ feature extract:
     cd ./DeepmRNALoc
     python extract_feature.py
 ```
-Tips: It could be cost long time.
+Tips: It might take a long time.
 
 train and test:
 ```
