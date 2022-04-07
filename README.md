@@ -62,7 +62,7 @@ The five-fold cross-validation accuracy of DeepmRNALoc in the cytoplasm, endopla
 If you find this repository useful in your research, please consider citing the Github:<br/>
 https://github.com/Thales-research-institute/DeepmRNALoc<br/>
 
-Paper is waiting for being published!
+We are waiting for the paper involving DeepmRNALoc to be published.
 
 ## Contact
 If you have any questions, feel free to contact Thales research institute through Email (Thales_research@163.com) or Github issues. Pull requests are highly welcomed!
