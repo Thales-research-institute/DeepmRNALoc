@@ -5,7 +5,7 @@
 
 ## Requirements
 
-- Python 3.6.13
+- Python == 3.6.13
 - opencv-python == 4.5.1.48
 - tensorflow-gpu == 1.14.0
 - scikit-learn == 0.24.0
