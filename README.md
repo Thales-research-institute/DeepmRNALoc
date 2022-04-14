@@ -23,8 +23,7 @@ conda activate DeepmRNALoc
 
 pip install -r requirements.txt
 ```
-## CUDA version
-CUDA == 10.1
+- CUDA == 10.1 (This is just a suggestion to make sure your program works properly)
  
 ## Data
 The fasta data can be downloaded here.
