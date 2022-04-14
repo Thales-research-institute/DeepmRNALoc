@@ -44,11 +44,11 @@ Tips: It might take a long time.
 
 train and test:
 ```
-    python main.py --model [modelname] --train
+    python main.py --model [modelname, default = FCN] --train
 ```
 only test:
 ```
-    python main.py --model [modelname]
+    python main.py --model [modelname, default = FCN]
 ```
 Tips: Please check the root path before run the main.py .
 
