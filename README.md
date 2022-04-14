@@ -27,7 +27,7 @@ The fasta data can be downloaded here.
 
 ## Usage
 To make our model as user-friendly as possible, a web site called DeepmRNALoc was developed.<br/>
-DeepmRNALoc can be publicly accessed by http://97.74.87.26:8080/mRNA/. 
+DeepmRNALoc can be publicly accessed by http://www.peng-lab.org:8080/mRNA/. 
 
 You can also run it from the command line
 
