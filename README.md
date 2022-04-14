@@ -18,9 +18,14 @@
 
 Dependencies can be installed using the following command:
 ```bash
+conda create -n DeepmRNALoc python=3.6.13
+conda activate DeepmRNALoc
+
 pip install -r requirements.txt
 ```
-
+## CUDA version
+CUDA == 10.1
+ 
 ## Data
 The fasta data can be downloaded here.
 - [BaiduPan](https://pan.baidu.com/s/1_sJ97N2te9CJxlbYz8DzfA), password: gv9y 
