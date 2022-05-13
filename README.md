@@ -29,10 +29,6 @@ conda install cudatoolkit=10.0
 conda install cudnn=7.6.5
 ```
 
-## Data
-The fasta data can be downloaded here.
-- [BaiduPan](https://pan.baidu.com/s/1_sJ97N2te9CJxlbYz8DzfA), password: gv9y 
-
 ## Usage
 To make our model as user-friendly as possible, a web site called DeepmRNALoc was developed.<br/>
 DeepmRNALoc can be publicly accessed by http://www.peng-lab.org:8080/mRNA/. 
