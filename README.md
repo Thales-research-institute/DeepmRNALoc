@@ -31,7 +31,7 @@ conda install cudnn=7.6.5
 
 ## Usage For AI researchers
 
-You can also run it from the command line
+You can run it from the command line
 
 feature extract:
 ```
