@@ -29,7 +29,7 @@ conda install cudatoolkit=10.0
 conda install cudnn=7.6.5
 ```
 
-## Usage For AI researchers
+## Usage For AI Researchers
 
 You can run it from the command line
 
@@ -57,7 +57,7 @@ inference:
 
 For more parameter information, please refer to `main.py`.
 
-## Usage For biomedical researchers
+## Usage For Biomedical Researchers
 
 We deployed a trained model on a dedicated server, which is publicly available at http://www.peng-lab.org:8080/mRNA/, to make it easy for biomedical researcher users to utilize DeepmRNALoc in their research activity. 
 
