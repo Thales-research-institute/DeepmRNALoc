@@ -29,9 +29,7 @@ conda install cudatoolkit=10.0
 conda install cudnn=7.6.5
 ```
 
-## Usage
-To make our model as user-friendly as possible, a web site called DeepmRNALoc was developed.<br/>
-DeepmRNALoc can be publicly accessed by http://www.peng-lab.org:8080/mRNA/. 
+## Usage For AI research：
 
 You can also run it from the command line
 
@@ -58,6 +56,12 @@ inference:
 ```
 
 For more parameter information, please refer to `main.py`.
+
+## Usage For biomedical researches
+
+We deployed a trained model on a dedicated server, which is publicly available at http://www.peng-lab.org:8080/mRNA/, to make it easy for biomedical researcher users to utilize DeepmRNALoc in their research activity. 
+
+Users can upload their mRNA sequences to the server, and then they can quickly obtain the predicted results of the mRNA subcellular localization.
 
 ## <span id="resultslink">Results</span>
 DeepmRNALoc's five-fold cross-validation accuracies were 0.895, 0.594, 0.308, 0.944, and 0.865 in the cytoplasm, endoplasmic reticulum, extracellular region, mitochondria, and nucleus, respectively.
