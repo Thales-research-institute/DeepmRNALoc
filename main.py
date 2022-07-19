@@ -5,7 +5,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 parser = argparse.ArgumentParser(description='[DeepmRNALoc] A novel predictor of eukaryotic mRNA subcellular localization based on deep learning')
 
-parser.add_argument('--model', type=str, required=True, default='DeepmRNALoc',help='model of experiment, options: [DeepmRNALoc,FCN]')
+parser.add_argument('--model', type=str, required=True, default='DeepmRNALoc',help='model of experiment, options: [DeepmRNALoc,]')
 # parser.add_argument('--root_path', type=str, required=False, default='', help='root path of the data file')
 parser.add_argument('--checkpoints', type=str, required=False, default='checkpoints/', help='The path of model checkpoints')
 parser.add_argument('--train', action='store_true', help='whether the model will be trained')
