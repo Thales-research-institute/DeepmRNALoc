@@ -14,6 +14,7 @@
 - numpy == 1.19.5
 - matplotlib == 3.3.4
 - h5py == 2.10.0
+- Bio == 1.3.9
 
 Dependencies can be installed using the following command:
 ```bash
