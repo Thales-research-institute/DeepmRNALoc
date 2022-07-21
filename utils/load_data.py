@@ -8,7 +8,7 @@ import os
 # 读取数据 shuffle
 from h5py import File
 def load_data(root_path):
-    with File(root_path + os.sep + 'data/H5/mRNA_kmer_k=12345678.h5','r') as f:
+    with File(root_path + os.sep + 'Data/H5/mRNA_kmer_k=12345678.h5','r') as f:
         x_train_12345 = f['kmer_x_train_all'].value
         y_train_12345 = f['kmer_y_train_all'].value
         x_test_12345 = f['kmer_x_test'].value
@@ -19,7 +19,7 @@ def load_data(root_path):
     print(x_test_12345.shape)
 
 
-    with File(root_path + os.sep + 'data/H5/mRNA_CGRS_cut.h5','r') as f:
+    with File(root_path + os.sep + 'Data/H5/mRNA_CGRS_cut.h5','r') as f:
         x_train_CGR = f['CGR_x_train_all'].value
         y_train_CGR = f['CGR_y_train_all'].value
         x_test_CGR = f['CGR_x_test'].value
