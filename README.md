@@ -73,5 +73,12 @@ https://github.com/Thales-research-institute/DeepmRNALoc<br/>
 
 Papers involving DeepmRNALocd have been submitted to an academic journal.
 
+## Contact
+If you have any questions, please feel free to contact Shihang Wang (Email: wshshou@163.com) or Zhehan Shen (Email: zshen1224@163.com). 
 
+Pull requests are highly welcomed!
+
+## Acknowledgments
+Thanks to Thales Institute and Shanghai Ocean University for providing computing infrastructure.<br/>
+Thank you all for your attention to this work.
 
