@@ -9,7 +9,6 @@
 - opencv-python == 4.5.1.48
 - tensorflow-gpu == 1.14.0
 - scikit-learn == 0.24.0
-- pandas ==  1.1.5
 - pandas == 1.1.5
 - numpy == 1.19.5
 - matplotlib == 3.3.4
