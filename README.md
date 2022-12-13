@@ -70,7 +70,7 @@ DeepmRNALoc's five-fold cross-validation accuracies were 0.895, 0.594, 0.308, 0.
 If you find this repository useful in your research, please consider citing the Github:<br/>
 https://github.com/Thales-research-institute/DeepmRNALoc<br/>
 
-Papers involving DeepmRNALocd have been submitted to an academic journal.
+Papers involving DeepmRNALoc have been submitted to an academic journal.
 
 ## Contact
 If you have any questions, please feel free to contact Shihang Wang (Email: wshshou@163.com) or Zhehan Shen (Email: zshen1224@163.com). 
