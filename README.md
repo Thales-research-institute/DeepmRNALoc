@@ -67,10 +67,7 @@ Users can upload their mRNA sequences to the server, and then they can quickly o
 DeepmRNALoc's five-fold cross-validation accuracies were 0.895, 0.594, 0.308, 0.944, and 0.865 in the cytoplasm, endoplasmic reticulum, extracellular region, mitochondria, and nucleus, respectively.
 
 ## <span id="citelink">Citation</span>
-If you find this repository useful in your research, please consider citing the Github:<br/>
-https://github.com/Thales-research-institute/DeepmRNALoc<br/>
-
-Papers involving DeepmRNALoc have been submitted to an academic journal.
+Wang S, Shen Z, Liu T, Long W, Jiang L, Peng S. DeepmRNALoc: A Novel Predictor of Eukaryotic mRNA Subcellular Localization Based on Deep Learning. Molecules. 2023; 28(5):2284. https://doi.org/10.3390/molecules28052284
 
 ## Contact
 If you have any questions, please feel free to contact Shihang Wang (Email: wshshou@163.com) or Zhehan Shen (Email: zshen1224@163.com). 
